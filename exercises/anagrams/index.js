@@ -8,6 +8,8 @@
 //   anagrams('RAIL! SAFETY!', 'fairy tales') --> True
 //   anagrams('Hi there', 'Bye there') --> False
 
+console.log("Hello world");
+
 function anagrams(stringA, stringB) {
   const stringA_Map = {};
   const stringB_Map = {};
